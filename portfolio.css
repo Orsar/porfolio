@@ -22,8 +22,14 @@ header {
   z-index: 10;
 }
 .orsar{
-  font-size:clamp(1rem, 2vw,2rem) ;
+  font-size:clamp(0.8rem, 2vw,2rem) ;
+
+   
 }
+
+.tomna{ 
+   font-size:clamp(0.6rem, 2vw,2rem);
+      }
 .animation{
   position: relative;
   width: 100vw;
